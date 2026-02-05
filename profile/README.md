@@ -2,14 +2,10 @@
 
 <p align="center">
   <a href="https://silverbeet.tech/">
-    <img src="seedling.png" alt="Seedling logo" width="160" height="160">
+    <!--<img src="seedling.png" alt="Seedling logo" width="160" height="160">-->
+    <img src="https://preview.tabler.io/static/logo-small.svg" alt="Bootstrap logo" width="160" height="160">
   </a>
 </p>
-<i class="ti ti-seedling"></i>
-    <img src="seedling.png" alt="Seedling logo" width="160" height="160">
-<i class="ti ti-seedling">    <img src="seedling.png" alt="Seedling logo" width="160" height="160">
-</i>
-
 
 <p align="center">
   Silverbeet Technology is an IT consulting company.
