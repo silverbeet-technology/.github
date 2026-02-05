@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://silverbeet.tech">Silverbeet Technology's website</a>
+  <a href="https://silverbeet.tech">WWWebsite</a>
   ·
-  <a href="https://github.com/silverbeet-technology/">Silverbeet Technology on GitHub</a>
+  <a href="https://github.com/silverbeet-technology/">GitHub</a>
   ·
-  <a href="https://www.linkedin.com/company/silverbeet-technology-llc/">Silverbeet Technology on LinkedIn</a>
+  <a href="https://www.linkedin.com/company/silverbeet-technology-llc/">LinkedIn</a>
   ·
   <a href="https://silverbeet.tech/contact/">Contact us</a>
 </p>
