@@ -2,10 +2,7 @@
 
 <p align="center">
   <a href="https://silverbeet.tech/">
-    <!--<img src="seedling.png" alt="Seedling logo" width="160" height="160">-->
-    <img src="logo-small.svg" alt="Bootstrap logo" width="160" height="160">
-    <img src="https://avatars.githubusercontent.com/u/259174868" alt="Silverbeet logo" width="160" height="160">\
-    
+    <img src="https://avatars.githubusercontent.com/u/259174868" alt="Silverbeet logo" width="100" height="100">\  
   </a>
 </p>
 
