@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://silverbeet.tech/">
     <img src="https://avatars.githubusercontent.com/u/259174868" alt="Silverbeet logo" width="100" height="100"> 
+    <img src="logo-202602.jpg" alt="Silverbeet logo" width="100" height="100"> 
   </a>
 </p>
 
