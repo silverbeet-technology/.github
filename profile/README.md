@@ -23,6 +23,6 @@
 <hr />
 
 <p>
-  <small>For 2026 I want to have Silverbeet tech setup, where I'm regularly working with a few small clients that allow me to build things using Linux and Open Source primarily and providing value to my customers. Ideally 3-4 small(ish) gigs like this, (running a webserver, maintaining SSL certificates, updating servers, building pipelines for applications running in the cloud, etc), with the ability for larger jobs as they come along.
+  <small><b>Mission</b>: For 2026 I want to have Silverbeet tech setup, where I'm regularly working with a few small clients that allow me to build things using Linux and Open Source primarily and providing value to my customers. Ideally 3-4 small(ish) gigs like this, (running a webserver, maintaining SSL certificates, updating servers, building pipelines for applications running in the cloud, etc), with the ability for larger jobs as they come along.
   </small>
 </p>
