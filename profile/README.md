@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Silverbeet Technology is an IT consulting company.
+  Silverbeet Technology is an IT consulting company
 </p>
 
 <p align="center">
