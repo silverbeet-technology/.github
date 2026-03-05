@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://silverbeet.tech">WWWebsite</a>
+  <a href="https://silverbeet.tech">www</a>
   ·
   <a href="https://github.com/silverbeet-technology/">GitHub</a>
+  ·
+  <a href="https://git.silverbeet.tech/">Git (internal)</a>
   ·
   <a href="https://www.linkedin.com/company/silverbeet-technology-llc/">LinkedIn</a>
   ·
