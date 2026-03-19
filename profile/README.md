@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://silverbeet.tech/">
-    <img src="logo.jpg" alt="Silverbeet logo" width="100" height="100"> 
+    <img src="logo.png" alt="Silverbeet logo" width="100" height="100"> 
   </a>
 </p>
 
